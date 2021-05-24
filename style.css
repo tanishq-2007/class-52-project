@@ -1,0 +1,122 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color:white;
+}
+body{
+    margin: 0px;
+    background-color: #f7f2f2;
+
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin: 25px;
+    font-family: fantasy;
+}
+h3{
+    position: relative;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-800%);
+}
+.chameleon:hover{
+    transform: scale(1.2);
+}
+.chameleon{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.chameleon img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.pigeon{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pigeon:hover{
+    transform: scale(1.2);
+}
+
+.pigeon img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.camel{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.camel:hover{
+    transform: scale(1.2);
+}
+
+.camel img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.panda{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.panda:hover{
+    transform: scale(1.2);
+}
+
+.panda img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.teddy-bear{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.teddy-bear:hover{
+    transform: scale(1.2);
+}
+
+.teddy-bear img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.flying-cicada{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flying-cicada:hover{
+    transform: scale(1.2);
+}
+
+.flying-cicada img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+
+
